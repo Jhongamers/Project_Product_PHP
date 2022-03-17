@@ -13,4 +13,5 @@ configure data how user address: localhost, database user: 'root', password:'emp
 
 **link database SQL only import: [product.sql](product.sql)**
 
-##after import database and to make connection is ready for to use only acess index.php
+
+**after import database and to make connection is ready for to use only acess index.php**
